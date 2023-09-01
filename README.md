@@ -14,7 +14,7 @@
 
 
 ### :woman_technologist::desktop_computer: About Me :
-I am a 21-year-old software engineering student at Arak University, majoring in Computer Science<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I have 2 years of experience in programming and am proficient in the languages Python, C/C++, and Java. I am also familiar with the Django and Android frameworks.
+I am Mahdi Lotfian. I'm a 21-year-old software engineering student at Arak University, majoring in Computer Science<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I have 2 years of experience in programming and am proficient in the languages Python, C/C++, and Java. I am also familiar with the Django and Android frameworks.
 
 # Programming languages
 

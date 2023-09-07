@@ -32,7 +32,7 @@ I am Mahdi Lotfian. I'm a 21-year-old software engineering student at Arak Unive
 
 # Interests
 
-* Programming :computer:
+* Web Programming :computer:
 * Machine learning :brain:
 * Artificial intelligence :robot:
 * Data science :chart_with_upwards_trend:
